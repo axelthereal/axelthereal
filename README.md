@@ -41,8 +41,6 @@
 <div>
   <img src="https://github.com/axelthereal/axelthereal/assets/132176744/6680b863-1ba9-450b-b296-93097735cb9f.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/axelthereal/axelthereal/assets/132176744/da9eb016-5777-4b7c-9d3f-7900989c8d8f.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/axelthereal/axelthereal/assets/132176744/aa5e0dc9-0850-478b-8a29-c7320cc37d62.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/axelthereal/axelthereal/assets/132176744/41033917-7b50-49fb-bbe4-8dad1cfc5647.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/axelthereal/axelthereal/assets/132176744/0853d3cd-767c-43b6-9494-d451e0f52f26.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/axelthereal/axelthereal/assets/132176744/29827f9f-20d1-45a7-b645-c74947ba15f9.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/axelthereal/axelthereal/assets/132176744/582f033d-3897-407a-b082-2ac950b0cef7.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
