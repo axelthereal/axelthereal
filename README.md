@@ -1,30 +1,10 @@
-<div id="header" align="center"
->
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132176744/247093851-b7dfc9ce-304a-4d5e-a8c0-18eebbe52cde.gif" width="150"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://twitter.com/axeltokam" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a> 
-   <a href="https://github.com/axelthereal" target="_blank">
- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-      </a> 
-    <a href="https://linkedin.com/in/axeltokam" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-017ccd?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>  
-    <a href="https://www.instagram.com/axeljtokam/" target="_blank">
- <img src="https://img.shields.io/badge/Instagram-e03960?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a> 
- <p>
-    <img src="https://komarev.com/ghpvc/?username=axelthereal&style=flat-square&color=blue" alt=""/>
- </p>
-  <h1>Hey there 👋</h1>
-  <p>"A seasoned and innovative senior full stack developer, I thrive on tackling complex problems with cutting-edge technologies. Passionate about intuitive user experiences and open-source collaboration. Let's shape the future of software engineering together."</p>
 
+<div align="center">
+<h1>Hey there 👋</h1>
+<p>"A seasoned and innovative senior full stack developer, I thrive on tackling complex problems with cutting-edge technologies. Passionate about intuitive user experiences and open-source collaboration. Let's shape the future of software engineering together."</p>
 </div>
 
-<hr/>
-
+<h1></h1>
 ### :man_technologist: About Me :
 🌍 I am a Full Stack Developer web and mobile developer from Cameroon 🇨🇲.
 
