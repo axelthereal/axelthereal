@@ -12,7 +12,7 @@
 - 🌱 I’m learning to build and maintain AI and ML powered softwares
 - 👀 Interested to contribute on projects related to Web3, AI, Robotics, and VR developement
 - 💞️ Looking to colaborate on open source projects and connects with like minded developers around the world
-- 📫 to reach me dev.axeltokam@outlook.com / https://twitter.com/axeltokam
+- 📫 to reach me dev.axeltokam@gmail.com / https://twitter.com/axeltokam
 - 👋 Welcome to my profile...
 
 <h1></h1>
